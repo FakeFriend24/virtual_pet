@@ -29,6 +29,10 @@ window/size/always_on_top=true
 window/size/transparent=true
 window/per_pixel_transparency/allowed=true
 
+[dotnet]
+
+project/assembly_name="Foxie"
+
 [input]
 
 move={
